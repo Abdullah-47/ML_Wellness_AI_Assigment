@@ -48,10 +48,9 @@ The goal of this project is to develop an AI-powered wellness solution. The assi
 
 - **Colab Notebooks:**  
   Launch Jupyter Lab/Notebook and if required install dependencies such as
-      ```
-      !pip install pandas numpy matplotlib seaborn sklearn scipy joblib
-      ```
-
+    ```bash
+    !pip install pandas numpy matplotlib seaborn sklearn scipy joblib
+    ```
 ## Approach
 
 1. **Data Preprocessing:**  
